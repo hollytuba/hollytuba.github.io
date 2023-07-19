@@ -6,7 +6,7 @@
   <link href="https://hollytuba.github.io/atom.xml" rel="self"/>
   
   <link href="https://hollytuba.github.io/"/>
-  <updated>2023-05-23T08:53:28.253Z</updated>
+  <updated>2023-07-19T01:09:43.625Z</updated>
   <id>https://hollytuba.github.io/</id>
   
   <author>
@@ -17,18 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Python的基本语法和格式规范</title>
+    <link href="https://hollytuba.github.io/2023/07/18/pythonpractise-day01/"/>
+    <id>https://hollytuba.github.io/2023/07/18/pythonpractise-day01/</id>
+    <published>2023-07-18T01:53:49.010Z</published>
+    <updated>2023-07-19T01:09:43.625Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;编码规范&quot;&gt;&lt;a href=&quot;#编码规范&quot; class=&quot;headerlink&quot; title=&quot;编码规范&quot;&gt;&lt;/a&gt;编码规范&lt;/h1&gt;&lt;p&gt;  Python的编码格式为utf-8&lt;/p&gt;
+&lt;h2 id=&quot;命名规范&quot;&gt;&lt;a href=&quot;#命名规范&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>杭州朝辉一面</title>
     <link href="https://hollytuba.github.io/2023/05/23/zhao-hui-dian-zi-yi-mian/"/>
     <id>https://hollytuba.github.io/2023/05/23/zhao-hui-dian-zi-yi-mian/</id>
     <published>2023-05-23T08:17:40.155Z</published>
-    <updated>2023-05-23T08:53:28.253Z</updated>
+    <updated>2023-07-19T01:09:12.819Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;面试内容&quot;&gt;&lt;a href=&quot;#面试内容&quot; class=&quot;headerlink&quot; title=&quot;面试内容&quot;&gt;&lt;/a&gt;面试内容&lt;/h2&gt;&lt;p&gt;  1.react和vue的区别。&lt;br&gt;  2.ES6的新特性都有哪些？&lt;br&gt;  3.promise函数的内容&lt;br&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;面试内容&quot;&gt;&lt;a href=&quot;#面试内容&quot; class=&quot;headerlink&quot;</summary>
         
       
     
@@ -55,7 +77,7 @@
     <link href="https://hollytuba.github.io/2022/04/14/ce-shi/"/>
     <id>https://hollytuba.github.io/2022/04/14/ce-shi/</id>
     <published>2022-04-14T03:17:23.875Z</published>
-    <updated>2022-04-14T15:17:51.874Z</updated>
+    <updated>2023-07-19T01:09:43.625Z</updated>
     
     
       
@@ -63,7 +85,7 @@
         
         
     <summary type="html">&lt;hr&gt;
-&lt;h2 id=&quot;这是一个测试文档&quot;&gt;&lt;a href=&quot;#这是一个测试文档&quot; class=&quot;headerlink&quot; title=&quot;   这是一个测试文档&quot;&gt;&lt;/a&gt;   这是一个测试文档&lt;/h2&gt;&lt;p&gt;‘&amp;amp; git clone</summary>
+&lt;h2 id=&quot;这是一个测试文档&quot;&gt;&lt;a href=&quot;#这是一个测试文档&quot; class=&quot;headerlink&quot; title=&quot;   这是一个测试文档&quot;&gt;&lt;/a&gt;   这是一个测试文档&lt;/h2&gt;&lt;pre&gt;&lt;code&gt;‘&amp;amp; git clone</summary>
         
       
     
